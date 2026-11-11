@@ -1,5 +1,16 @@
 # Camera Import — PhotoDewey Extension
 
+> [!IMPORTANT]
+> **Camera Import is now built into PhotoDewey.** Starting with PhotoDewey 1.0, importing from
+> cameras, phones, SD cards and other USB devices is part of the app itself: open the Import
+> dialog and choose the **From Camera / Phone** tab.
+>
+> - You no longer need to install this extension, and it is no longer offered in the
+>   in-app extension catalogue.
+> - PhotoDewey 1.0 removes an installed copy of `PhotoDewey.CameraImport.dll` automatically
+>   at startup.
+> - This repository is kept for its release history and is no longer updated.
+
 Import photos from USB-attached cameras, SD card readers, and other removable
 storage directly into your PhotoDewey library. Photos are moved or copied into
 your library's import folder — no more manual file shuffling.
